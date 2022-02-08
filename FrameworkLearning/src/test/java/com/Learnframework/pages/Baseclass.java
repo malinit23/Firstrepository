@@ -21,7 +21,6 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 public class Baseclass {
 	
 	/* creating the before class and after class as common class to be used by evry test cases*/
-
 	
 	public WebDriver driver ; /* it is denoted as public to handle across all the inherited classes or subclasses*/
 	
